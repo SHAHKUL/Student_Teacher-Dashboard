@@ -1,0 +1,57 @@
+[{
+    "title": "enthiran 2",
+    "relese_year": "2026",
+    "director": "shankar",
+    "language": [
+        "tamil",
+        "english",
+        "malaya"
+    ],
+    "stats": {
+        "budget": 800,
+        "profit": 1500
+    },
+    "cast": [
+        {
+            "name": "rajini",
+            "role": "CHITI"
+        },
+        {
+            "name": "rajini",
+            "role": "vasi"
+        },
+        {
+            "name": "emy",
+            "role": "nila"
+        }
+    ]
+},
+
+{
+    "title": "Anjaan",
+    "relese_year": "2020",
+    "director": "Lingu",
+    "language": [
+        "tamil",
+        "english",
+        "kanand"
+    ],
+    "stats": {
+        "budget": 400,
+        "profit": 500
+    },
+    "cast": [
+        {
+            "name": "suriya",
+            "role": "raju"
+        },
+        {
+            "name": "rajini",
+            "role": "vasi"
+        },
+        {
+            "name": "sam",
+            "role": "commisioner ponnu"
+        }
+    ]
+}]
